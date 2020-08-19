@@ -1,1 +1,1 @@
-# entso-modifikovane
+# Modifikovane Entso-e subory
